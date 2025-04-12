@@ -28,7 +28,7 @@ I'm a passionate software engineer with a focus on **backend development**, thou
 
 ## My Open Source Projects
 - [**Auth-X**](https://github.com/edwardndiyo/auth-x) - A **Node.js** package for OAuth authentication.
-- [**Py-Response Paradoxi**](https://github.com/edwardndiyo/pyresponse-paradox) - A **Python** library that automatically handles response codes and messages. Instead of memorizing what each code means, simply call functions from the library to handle it for you.
+- [**Py-Response Paradox**](https://github.com/edwardndiyo/pyresponse-paradox) - A **Python** library that automatically handles response codes and messages. Instead of memorizing what each code means, simply call functions from the library to handle it for you.
 
 ## My Skills
 - **Languages**: JavaScript, Python, C#, SQL
