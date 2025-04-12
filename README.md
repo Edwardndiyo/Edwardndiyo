@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Edward "Paradox" Ndiyo 👋
+#  I'm Edward "Paradox" Ndiyo 👋
 
 ## About Me
 I'm a passionate software engineer with a focus on **backend development**, though I'm also a full-stack developer. I have keen interests in building **Telegram bots** and working with cutting-edge technologies. I'm constantly learning and improving my skills, and I'm currently exploring **MAUI** for cross-platform development.
